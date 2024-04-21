@@ -21,7 +21,7 @@ body {
     overflow: hidden;
     width: 180px;
     height: 180px;
-    border-radius: 50%;
+    border-radius: 10%;
     margin-bottom: 10px;
 
     img {
