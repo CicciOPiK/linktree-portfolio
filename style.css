@@ -45,6 +45,12 @@ body {
     font-weight: 400;
   }
 
+  h3 {
+    font-size: 14px;
+    margin: 0 0 5px 0;
+    font-weight: 400;
+  }
+
   main {
     gap: 20px;
 
