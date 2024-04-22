@@ -136,12 +136,20 @@ ul li.whatsapp{
   background: #4dc247;
 }
 
+ul li.mail{
+  background: #ff0f57;
+}
+
 ul li.linkedin{
   background: #0e76a8;
 }
 
 ul li.github{
   background: #000000;
+}
+
+ul li.telegram{
+  background: #ffeb0f;
 }
 
 ul li.facebook div.slider{
@@ -169,6 +177,11 @@ ul li.whatsapp div.slider{
   height: 25px;
 }
 
+ul li.mail div.slider-right{
+  background: #c25173;
+  height: 25px;
+}
+
 ul li.linkedin div.slider-right{
   background: #539fc2;
   height: 25px;
@@ -179,6 +192,10 @@ ul li.github div.slider-right{
   height: 25px;
 }
 
+ul li.telegram div.slider-right{
+  background: #d9d391;
+  height: 25px;
+}
 
 .slider {
   content: "";
