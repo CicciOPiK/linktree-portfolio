@@ -178,7 +178,7 @@ ul li.whatsapp div.slider{
 }
 
 ul li:hover .slider {
-  width: 180px;
+  width: 80px;
   transition: all 0.5s ease;
 }
 
