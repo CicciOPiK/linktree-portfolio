@@ -169,12 +169,12 @@ ul li.whatsapp div.slider{
   height: 25px;
 }
 
-ul li.linkedin div.slider{
+ul li.linkedin div.slider-right{
   background: #539fc2;
   height: 25px;
 }
 
-ul li.github div.slider{
+ul li.github div.slider-right{
   background: #2b2b2b;
   height: 25px;
 }
