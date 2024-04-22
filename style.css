@@ -101,8 +101,8 @@ ul li {
 
 ul li .fa {
   position: absolute;
-  top: 20%;
-  left: 0%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
   font-size: 20px;
   color: #fff;
@@ -130,24 +130,32 @@ ul li.whatsapp{
 
 ul li.facebook div.slider{
   background: #627aac;
-  width: 100px;
+  width: 80px;
   height: 25px;
 }
 
 ul li.twitter div.slider{
   background: #7fd5f6;
+  width: 80px;
+  height: 25px;
 }
 
 ul li.instagram div.slider{
   background: #dd94c6;
+  width: 80px;
+  height: 25px;
 }
 
 ul li.google div.slider{
   background: #eea59c;
+  width: 80px;
+  height: 25px;
 }
 
 ul li.whatsapp div.slider{
   background: #82d47e;
+  width: 80px;
+  height: 25px;
 }
 
 .slider {
