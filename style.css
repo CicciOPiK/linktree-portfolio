@@ -84,6 +84,13 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.wrapper-right {
+  position: absolute;
+  top: 21%;
+  right: 0%;
+  transform: translate(-50%, -50%);
+}
+
 ul {
   list-style: none;
 }
