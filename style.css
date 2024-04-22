@@ -104,7 +104,7 @@ ul li .fa {
   top: 20%;
   left: 0%;
   transform: translate(-50%, -50%);
-  font-size: 12px;
+  font-size: 20px;
   color: #fff;
 }
 
@@ -156,7 +156,7 @@ ul li.whatsapp div.slider{
   top: 0;
   left: 51px;
   width: 0px;
-  height: 50px;
+  height: 20px;
   background: #eebb5c;
   border-radius: 3px;
   transition: all 0.5s 0.3s ease;
@@ -165,11 +165,11 @@ ul li.whatsapp div.slider{
 .slider p {
   font-family: arial;
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 900;
   color: #fff;
   text-align: center;
-  line-height: 50px;
+  line-height: 20px;
   opacity: 0;
   transition: all 0.6s ease;
 }
