@@ -79,9 +79,9 @@ body {
 
 .wrapper {
   position: absolute;
-  top: 50%;
+  top: 5%;
   left: 5%;
-  transform: translate(-50%, -50%);
+  transform: scale(0.5);
 }
 
 ul {
