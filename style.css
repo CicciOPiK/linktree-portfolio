@@ -79,8 +79,8 @@ body {
 
 .wrapper {
   position: absolute;
-  top: 40%;
-  left: 5%;
+  top: 10%;
+  left: 0%;
   transform: translate(-50%, -50%);
 }
 
@@ -130,6 +130,8 @@ ul li.whatsapp{
 
 ul li.facebook div.slider{
   background: #627aac;
+  width: 100px;
+  height: 25px;
 }
 
 ul li.twitter div.slider{
