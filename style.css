@@ -137,7 +137,7 @@ ul li.whatsapp{
 }
 
 ul li.mail{
-  background: #9c0b67;
+  background: #7006bd;
 }
 
 ul li.linkedin{
@@ -149,7 +149,7 @@ ul li.github{
 }
 
 ul li.telegram{
-  background: #87410f;
+  background: #d1630f;
 }
 
 ul li.facebook div.slider{
@@ -178,7 +178,7 @@ ul li.whatsapp div.slider{
 }
 
 ul li.mail div.slider-right{
-  background: #87376a;
+  background: #8a4bb8;
   height: 25px;
 }
 
@@ -193,7 +193,7 @@ ul li.github div.slider-right{
 }
 
 ul li.telegram div.slider-right{
-  background: #805436;
+  background: #c4885a;
   height: 25px;
 }
 
