@@ -136,6 +136,14 @@ ul li.whatsapp{
   background: #4dc247;
 }
 
+ul li.linkedin{
+  background: #0e76a8;
+}
+
+ul li.github{
+  background: #000000;
+}
+
 ul li.facebook div.slider{
   background: #627aac;
   height: 25px;
@@ -160,6 +168,17 @@ ul li.whatsapp div.slider{
   background: #82d47e;
   height: 25px;
 }
+
+ul li.linkedin div.slider{
+  background: #539fc2;
+  height: 25px;
+}
+
+ul li.github div.slider{
+  background: #2b2b2b;
+  height: 25px;
+}
+
 
 .slider {
   content: "";
