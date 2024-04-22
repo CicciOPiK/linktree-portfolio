@@ -79,8 +79,8 @@ body {
 
 .wrapper {
   position: absolute;
-  top: 5%;
-  left: 5%;
+  top: 1%;
+  left: 1%;
   transform: scale(0.7);
 }
 
