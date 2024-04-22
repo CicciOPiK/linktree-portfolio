@@ -184,7 +184,7 @@ ul li.github div.slider{
   content: "";
   position: absolute;
   top: 0;
-  left: 32px;
+  right: 32px;
   width: 0px;
   height: 20px;
   background: #eebb5c;
