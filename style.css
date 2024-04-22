@@ -11,7 +11,7 @@ main {
 body {
   font-family: "Poppins", sans-serif;
   color: white;
-	background: linear-gradient(-45deg, #9900ff, #ff6600, #ff6600, #9900ff);
+	background: linear-gradient(-45deg, #9900ff, #ff6600, #ff00ff, #ff6600);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
   margin: 0;
