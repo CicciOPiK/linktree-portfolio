@@ -96,7 +96,7 @@ ul li {
   margin: 10px 0;
   cursor: pointer;
   border-radius: 3px;
-  border: small solid white;
+  border: medium solid white;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
