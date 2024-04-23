@@ -82,14 +82,14 @@ body {
   position: absolute;
   top: 19%;
   left: 0%;
-  transform: translate(-50%, -20%);
+  transform: translate(-50%, -50%);
 }
 
 .wrapper-right {
   position: absolute;
   top: 19%;
   right: 0%;
-    transform: translate(-50%, -20%);
+    transform: translate(-30%, -50%);
 }
 
 ul {
