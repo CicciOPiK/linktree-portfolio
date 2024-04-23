@@ -81,14 +81,14 @@ body {
 .wrapper {
   position: absolute;
   top: 19%;
-  left: 3%;
+  left: 1%;
   transform: translate(-50%, -50%);
 }
 
 .wrapper-right {
   position: absolute;
   top: 19%;
-  right: 3%;
+  right: 1.5%;
   transform: translate(0%, -50%);
 }
 
