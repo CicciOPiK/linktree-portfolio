@@ -13,7 +13,7 @@ body {
   color: white;
 	background: linear-gradient(-45deg, #9900ff, #ff6600, #9900ff, #ff6600);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	animation: gradient 30s ease infinite;
   margin: 0;
   height: 105vh;
   justify-content: center;
