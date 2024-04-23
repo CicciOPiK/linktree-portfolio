@@ -9,19 +9,19 @@ main {
 }
 
 .avatar-wobble {
-  border-radius: 810px 410px 510px 410px /
-                 610px 810px 310px 810px;
-  animation: wobble 15s ease-in-out alternate infinite;
+  border-radius: 810px 910px 510px 710px /
+                 610px 810px 610px 810px;
+  animation: wobble 20s ease-in-out alternate infinite;
 }
 
 @keyframes wobble {
   60% {
     border-radius: 510px 810px 610px 810px /
-                   410px 510px 710px 410px;
+                   910px 510px 710px 610px;
   }
   50% {
-    border-radius: 410px 710px 410px 510px /
-                   710px 610px 810px 410px;
+    border-radius: 910px 710px 910px 510px /
+                   710px 610px 810px 910px;
   }
 }
 
