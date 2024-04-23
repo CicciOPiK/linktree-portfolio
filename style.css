@@ -90,7 +90,7 @@ body {
   top: 19%;
   right: 0%;
   transform: translate(-50%, -50%);
-  text-align: right;
+  float: right;
 }
 
 ul {
