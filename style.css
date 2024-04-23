@@ -16,7 +16,6 @@ body {
 	animation: gradient 15s ease infinite;
   margin: 0;
   height: 75;
-  padsing-top: 50px;
   justify-content: top;
   gap: 20px;
 
@@ -26,6 +25,7 @@ body {
     height: 180px;
     border-radius: 50%;
     margin-bottom: 10px;
+    padsing-top: 50px;
     border: 1px solid #fff;
 
     img {
