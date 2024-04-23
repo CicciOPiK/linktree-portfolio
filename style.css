@@ -16,7 +16,7 @@ body {
 	animation: gradient 15s ease infinite;
   margin: 0;
   height: 105vh;
-  justify-content: center;
+  justify-content: top;
   gap: 20px;
 
   figure {
