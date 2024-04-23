@@ -89,6 +89,7 @@ body {
   position: absolute;
   top: 19%;
   right: 0%;
+  margin-right: 0px;
   transform: translate(-50%, -50%);
 }
 
