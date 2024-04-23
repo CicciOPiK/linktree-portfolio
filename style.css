@@ -9,6 +9,7 @@ main {
 }
 
 body {
+  padding-top: 30px;
   font-family: "Poppins", sans-serif;
   color: white;
 	background: linear-gradient(-45deg, #9900ff, #ff6600, #9900ff, #ff6600);
@@ -32,7 +33,7 @@ body {
       height: 100%;
       object-fit: cover;
       transform: scale(1.0);
-      object-position: top 30px right 0px;
+      object-position: top 0px right 0px;
     }
   }
 
