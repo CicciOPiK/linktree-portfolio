@@ -15,11 +15,11 @@ main {
 }
 
 @keyframes wobble {
-  30% {
+  10% {
     border-radius: 710px 410px 310px 710px /
                    310px 710px 510px 410px;
   }
-  80% {
+  70% {
     border-radius: 710px 410px 610px 310px /
                    310px 510px 310px 410px;
   }
