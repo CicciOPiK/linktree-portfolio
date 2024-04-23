@@ -8,6 +8,23 @@ main {
   align-items: center;
 }
 
+.avatar-wobble {
+  border-radius: 250px 750px 250px 750px /
+                 750px 250px 750px 250px;
+  animation: wobble 15s ease-in-out alternate infinite;
+}
+
+@keyframes wobble {
+  50% {
+    border-radius: 750px 550px 350px 750px /
+                   350px 750px 550px 450px;
+  }
+  100% {
+    border-radius: 750px 250px 750px 250px /
+                   250px 750px 250px 750px;
+  }
+}
+
 body {
   padding-top: 20px;
   font-family: "Poppins", sans-serif;
