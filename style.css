@@ -88,7 +88,7 @@ body {
 .wrapper-right {
   position: absolute;
   top: 19%;
-  right: 0%;
+  right: -20%;
   transform: translate(-80%, -50%);
 }
 
