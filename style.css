@@ -16,15 +16,15 @@ main {
 
 @keyframes wobble {
   40% {
-    border-radius: 1000px 1000px 1000px 1000px /
+    border-radius: 2000px 1000px 1000px 1000px /
                  1000px 1000px 1000px 1000px;
   }
   60% {
-    border-radius: 1000px 1000px 1000px 1000px /
+    border-radius: 3000px 1000px 1000px 1000px /
                  1000px 1000px 1000px 1000px;
   }
   100% {
-    border-radius: 1000px 1000px 1000px 1000px /
+    border-radius: 4000px 1000px 1000px 1000px /
                  1000px 1000px 1000px 1000px;
   }
 }
