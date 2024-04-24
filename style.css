@@ -9,8 +9,8 @@ main {
 }
 
 .avatar-wobble {
-  border-radius: 1410px 2000px 1410px 2000px /
-                 2000px 1410px 2000px 1410px;
+  border-radius: 1000px 1000px 1000px 1000px /
+                 1000px 1000px 1000px 1000px;
   animation: wobble 5s ease-in-out alternate infinite;
 }
 
