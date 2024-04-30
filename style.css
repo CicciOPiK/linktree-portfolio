@@ -371,10 +371,10 @@ button {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: orange;
 }
 button:focus {
-  outline: transparent;
+  outline: orange;
 }
 button::-moz-focus-inner {
   border: 0;
