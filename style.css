@@ -380,7 +380,7 @@ button::-moz-focus-inner {
   border: 0;
 }
 button:not(:disabled):focus, button:not(:disabled):hover {
-  background: #0b46da;
+  background: orange;
 }
 button:not(:disabled):active {
   transform: translateY(1px);
