@@ -96,7 +96,7 @@ body {
   position: absolute;
   top: 19%;
   left: 0%;
-  transform: translate(-50%, -100%);
+  transform: translate(0%, -50%);
 }
 
 .wrapper-right {
