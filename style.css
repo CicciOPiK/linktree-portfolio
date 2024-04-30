@@ -342,12 +342,6 @@ ul li:hover .slider-right p {
   }
 }
 
-* {
-  border: 0;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 :root {
   --dur: 3s;
   --arrowA: polygon(33% 0%,67% 0%,67% 60%,100% 60%,50% 100%,0% 60%,33% 60%);
