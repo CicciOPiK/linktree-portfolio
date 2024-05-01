@@ -348,10 +348,6 @@ ul li:hover .slider-right p {
   --hover-back: #6D58FF;
   --hover-front: #F6F8FF;
 }
-.button.simple {
-  --background: #275EFE;
-  --background-hover: #1749DB;
-}
 
 .button {
   --color: #fff;
