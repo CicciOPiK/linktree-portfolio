@@ -365,7 +365,7 @@ body {
   background-color: transparent;
   border-radius: 1.5em;
   display: block;
-  position: absolute;
+  position: relative;
   width: 7.5em;
   height: 3em;
   transition: width 0.3s ease-in-out;
