@@ -341,12 +341,6 @@ ul li:hover .slider-right p {
     transform:translateX(25%);
   }
 }
-* {
-  border: 0;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 :root {
   --hue: 223;
   --bg1: hsl(var(--hue),10%,90%);
