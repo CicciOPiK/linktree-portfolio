@@ -358,6 +358,8 @@ body {
   background-color: var(--bg1);
   color: var(--fg1);
   height: 100vh;
+  display: grid;
+  place-items: center;
 }
 
 /* Main button styles */
