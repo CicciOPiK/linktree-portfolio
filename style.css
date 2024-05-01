@@ -187,7 +187,7 @@ ul li.google div.slider{
   height: 25px;
 }
 
-ul li.whatsapp div.slider{
+ul li.whatsapp div.slider-right{
   background: #82d47e;
   height: 25px;
 }
@@ -197,7 +197,7 @@ ul li.mail div.slider-right{
   height: 25px;
 }
 
-ul li.linkedin div.slider-right{
+ul li.linkedin div.slider{
   background: #539fc2;
   height: 25px;
 }
