@@ -412,7 +412,7 @@ ul li:hover .slider-right p {
   -ms-transition-timing-function: ease-in-out;
   -o-transition-timing-function: ease-in-out;
   transition-timing-function: ease-in-out;
-  background-color: #fff;
+  background-color: transparent;
   position: absolute;
   overflow: hidden;
   width: 100%;
