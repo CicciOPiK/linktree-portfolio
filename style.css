@@ -380,7 +380,7 @@ box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
 -webkit-transform-origin: 50% 50%;
 -webkit-transform: perspective(500px) rotateY(-40deg) scaleY(0.9) scaleX(1.15);  }
  .nav:hover .icon:first-child {
-    margin-bottom: -150px;padding-left:160px;
+    margin-bottom: -80px;padding-left:90px;
    
   }
   .icon {
