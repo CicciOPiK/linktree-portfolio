@@ -377,9 +377,9 @@ background-size:cover;}
 .nav:hover {
  color: #111;
   border-right:3px solid#13425e;
--webkit-box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
--moz-box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
-box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
+-webkit-box-shadow: inset 0px -200px 0px 0px rgba(42,47,208,1);
+-moz-box-shadow: inset 0px -200px 0px 0px rgba(42,47,208,1);
+box-shadow: inset 0px -200px 0px 0px rgba(42,47,208,1);
   -webkit-backface-visibility: visible;
 -webkit-transform-origin: 50% 50%;
 -webkit-transform: perspective(500px) rotateY(-40deg) scaleY(0.9) scaleX(1.15);  }
