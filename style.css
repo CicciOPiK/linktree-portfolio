@@ -349,7 +349,7 @@ body {
 -o-background-size:cover;
 background-size:cover;}
 .menu{
-  margin:5%;;
+  margin:1%;;
   float:none;
   max-width:100%;
   width:100%;
@@ -360,8 +360,8 @@ background-size:cover;}
   text-decoration:none;
   border-radius:8px;
   display:inline;
-  height: 150px;width:150px;
-  margin: 32px 0px 0px 32px;
+  height: 130px;width:130px;
+  margin: 20px 0px 0px 20px;
   overflow: hidden;
   float:left;
   text-align: center;
@@ -380,12 +380,12 @@ box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
 -webkit-transform-origin: 50% 50%;
 -webkit-transform: perspective(500px) rotateY(-40deg) scaleY(0.9) scaleX(1.15);  }
  .nav:hover .icon:first-child {
-    margin-bottom: -150px;padding-left:160px;
+    margin-bottom: -130px;padding-left:140px;
    
   }
   .icon {
-    height: 150px; width: 150px;;
-    line-height: 150px;
+    height: 130px; width: 130px;;
+    line-height: 130px;
     font-size: 25px;
    transition: margin 0.8s,padding 1.5s;
 -webkit-transition: margin 0.8s,padding 1.5s;
