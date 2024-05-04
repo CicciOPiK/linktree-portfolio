@@ -387,9 +387,9 @@ box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
    
   }
   .icon {
-    height: 80px; width: 80px;;
-    line-height: 80px;
-    font-size: 80px;
+    height: 130px; width: 130px;;
+    line-height: 130px;
+    font-size: 40;
    transition: margin 0.8s,padding 1.5s;
 -webkit-transition: margin 0.8s,padding 1.5s;
 -webkit-backface-visibility: visible;
