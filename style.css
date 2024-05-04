@@ -359,13 +359,13 @@ background-size:cover;}
   text-transform:uppercase;
   text-decoration:none;
   display:inline;
-  height: 150px;width:150px;
-  margin: 2px 0px 0px 1px;
+  height: 110px;width:110px;
+  margin: 8px 0px 0px 4px;
   overflow: hidden;
   float:left;
   text-align: center;
-  background: #47dac8;
-  color: #fff;
+  background: #fff;
+  color: #000;
   transition: all .8s ease, box-shadow 2s;
   -webkit-transition: all .8s ease,box-shadow 2s;
   cursor: pointer;}
@@ -383,8 +383,8 @@ box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
    
   }
   .icon {
-    height: 150px; width: 150px;;
-    line-height: 150px;
+    height: 110px; width: 110px;;
+    line-height: 110px;
     font-size: 25px;
    transition: margin 0.8s,padding 1.5s;
 -webkit-transition: margin 0.8s,padding 1.5s;
