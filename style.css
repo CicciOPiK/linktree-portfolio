@@ -361,7 +361,7 @@ background-size:cover;}
   font-family:'Oswald', sans-serif;
   text-transform:uppercase;
   text-decoration:none;
-  border-radius:100px;
+  border-radius:5px;
   display:inline;
   height: 130px;width:130px;
   margin: 20px 0px 0px 20px;
@@ -370,8 +370,8 @@ background-size:cover;}
   text-align: center;
   background: #fff;
   color: #000;
-  transition: all .8s ease, box-shadow none;
-  -webkit-transition: all .8s ease,box-shadow none;
+  transition: all .8s ease, box-shadow 2s;
+  -webkit-transition: all .8s ease,box-shadow 2s;
   cursor: pointer;}
 .nav:hover {
  color: #111;
