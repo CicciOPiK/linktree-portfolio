@@ -96,14 +96,14 @@ body {
   position: absolute;
   top: 19%;
   left: 0%;
-  transform: translate(-23.3%, 20px);
+  transform: translate(-23.3%, -40px);
 }
 
 .wrapper-right {
   position: absolute;
   top: 19%;
   right: 0%;
-  transform: translate(-35%, 20px);
+  transform: translate(-35%, -40px);
 }
 
 ul {
