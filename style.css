@@ -358,9 +358,9 @@ background-size:cover;}
   font-family:'Oswald', sans-serif;
   text-transform:uppercase;
   text-decoration:none;
-  border-radius:10px;
+  border-radius:8px;
   display:inline;
-  height: 80px;width:80px;
+  height: 110px;width:110px;
   margin: 16px 0px 0px 8px;
   overflow: hidden;
   float:left;
@@ -380,12 +380,12 @@ box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
 -webkit-transform-origin: 50% 50%;
 -webkit-transform: perspective(500px) rotateY(-40deg) scaleY(0.9) scaleX(1.15);  }
  .nav:hover .icon:first-child {
-    margin-bottom: -80px;padding-left:90px;
+    margin-bottom: -110px;padding-left:120px;
    
   }
   .icon {
-    height: 80px; width: 80px;;
-    line-height: 80px;
+    height: 110px; width: 110px;;
+    line-height: 110px;
     font-size: 25px;
    transition: margin 0.8s,padding 1.5s;
 -webkit-transition: margin 0.8s,padding 1.5s;
