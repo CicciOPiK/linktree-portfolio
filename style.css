@@ -353,6 +353,8 @@ background-size:cover;}
   float:none;
   max-width:100%;
   width:100%;
+  display: flex;
+  align-items: center;
 }
 .nav{
   font-family:'Oswald', sans-serif;
