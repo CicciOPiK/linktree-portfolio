@@ -358,9 +358,10 @@ background-size:cover;}
   font-family:'Oswald', sans-serif;
   text-transform:uppercase;
   text-decoration:none;
+  border-radius:10px;
   display:inline;
-  height: 110px;width:110px;
-  margin: 8px 0px 0px 4px;
+  height: 80px;width:80px;
+  margin: 16px 0px 0px 8px;
   overflow: hidden;
   float:left;
   text-align: center;
@@ -383,8 +384,8 @@ box-shadow: inset 0px -200px 0px 0px rgba(42,147,208,1);
    
   }
   .icon {
-    height: 110px; width: 110px;;
-    line-height: 110px;
+    height: 80px; width: 80px;;
+    line-height: 80px;
     font-size: 25px;
    transition: margin 0.8s,padding 1.5s;
 -webkit-transition: margin 0.8s,padding 1.5s;
