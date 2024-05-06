@@ -116,8 +116,8 @@ ul {
 }
 
 ul li {
-  width: 25px;
-  height: 25px;
+  width: 40px;
+  height: 40px;
   position: relative;
   background: #e59500;
   margin: 10px 0;
@@ -132,7 +132,7 @@ ul li .fa {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 20px;
+  font-size: 35px;
   color: #fff;
 }
 
@@ -174,47 +174,47 @@ ul li.telegram{
 
 ul li.facebook div.slider{
   background: #627aac;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.twitter div.slider{
   background: #7fd5f6;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.instagram div.slider{
   background: #dd94c6;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.google div.slider{
   background: #eea59c;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.whatsapp div.slider-right{
   background: #82d47e;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.mail div.slider-right{
   background: #DC143C;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.linkedin div.slider{
   background: #539fc2;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.github div.slider{
   background: #2b2b2b;
-  height: 25px;
+  height: 40px;
 }
 
 ul li.telegram div.slider-right{
   background: #00afed;
-  height: 25px;
+  height: 40px;
 }
 
 .slider {
