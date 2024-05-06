@@ -16,7 +16,7 @@ main {
 .avatar-wobble {
   border-radius: 950px 750px 950px 750px /
                  750px 950px 750px 950px;
-  animation: wobble 2s ease-in-out alternate infinite;
+  animation: wobble 5s ease-in-out alternate infinite;
 }
 
 @keyframes wobble {
