@@ -368,7 +368,7 @@ h1 {
 }
 
 .menu-open {
-  display: none;
+  display: hidden;
 }
 
 .hamburger {
