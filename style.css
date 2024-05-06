@@ -300,15 +300,21 @@ ul li:hover .slider-right p {
   right:-50%;
   top:0;
   z-index:-1;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 
 .bg2 {
   animation-direction:alternate-reverse;
   animation-duration:17s;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 
 .bg3 {
   animation-duration:19s;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 
 .content {
