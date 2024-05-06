@@ -371,7 +371,7 @@ h1 {
   top: 20px;
   color: white;
   text-align: center;
-  line-height: 80px;
+  line-height: 90px;
   transform: translate3d(0, 0, 0);
   transition: transform ease-out 200ms;
 }
