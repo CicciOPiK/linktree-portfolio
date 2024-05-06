@@ -420,7 +420,7 @@ h1 {
 }
 
 .menu-item:hover {
-  background: transparent;
+  background: #ffffff;
   color: #C7C7C7;
 }
 .menu-item:nth-child(3) {
