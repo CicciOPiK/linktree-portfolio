@@ -421,7 +421,7 @@ h1 {
 
 .menu-item:hover {
   background: white;
-  color: #0E86D4;
+  color: #C7C7C7;
 }
 .menu-item:nth-child(3) {
   transition-duration: 70ms;
