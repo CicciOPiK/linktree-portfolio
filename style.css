@@ -368,7 +368,7 @@ h1 {
 }
 
 .menu-open {
-  display: hidden;
+  display: none;
 }
 
 .hamburger {
@@ -420,7 +420,7 @@ h1 {
 }
 
 .menu-item:hover {
-  background: white;
+  background: transparent;
   color: #C7C7C7;
 }
 .menu-item:nth-child(3) {
