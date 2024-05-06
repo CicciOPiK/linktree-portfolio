@@ -57,7 +57,7 @@ main {
 }
 
 .css-typing p:nth-child(1) {
-  width: 19.5em;
+  width: 16.5em;
   opacity: 0;
   -webkit-animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
   animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
