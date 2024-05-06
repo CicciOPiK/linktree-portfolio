@@ -368,15 +368,15 @@ h1 {
 .menu-item, .menu-open-button {
   background: #ff4081;
   border-radius: 100%;
-  width: 75px;
-  height: 75px;
+  width: 65px;
+  height: 65px;
   border: 1px solid white;
   margin-left: -40px;
   position: absolute;
   top: 10px;
   color: white;
   text-align: center;
-  line-height: 75px;
+  line-height: 65px;
   transform: translate3d(0, 0, 0);
   transition: transform ease-out 200ms;
 }
