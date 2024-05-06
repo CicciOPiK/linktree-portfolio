@@ -45,8 +45,8 @@ main {
   animation-fill-mode: forwards;
 }
 
-.css-typing p:nth-child(1) {
-  width: 15.5em;
+.css-typing p:nth-child(3) {
+  width: 19.5em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -56,8 +56,8 @@ main {
   animation-fill-mode: forwards;
 }
 
-.css-typing p:nth-child(3) {
-  width: 7.3em;
+.css-typing p:nth-child(1) {
+  width: 19.5em;
   opacity: 0;
   -webkit-animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
   animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
