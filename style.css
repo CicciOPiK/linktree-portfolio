@@ -37,7 +37,7 @@ main {
   white-space: nowrap;
   overflow: hidden;
 }
-.css-typing p:nth-child(1) {
+.css-typing p:nth-child(2) {
   width: 7.3em;
   -webkit-animation: type 2s steps(40, end);
   animation: type 2s steps(40, end);
@@ -45,8 +45,8 @@ main {
   animation-fill-mode: forwards;
 }
 
-.css-typing p:nth-child(2) {
-  width: 11.5em;
+.css-typing p:nth-child(1) {
+  width: 15.5em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
