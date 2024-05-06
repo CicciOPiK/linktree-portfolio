@@ -47,7 +47,7 @@ main {
 }
 
 .css-typing p:nth-child(3) {
-  width: auto;
+  width: 15.5em;
   opacity: 0;
   margin-top: -2%;
   -webkit-animation: type2 2s steps(40, end);
