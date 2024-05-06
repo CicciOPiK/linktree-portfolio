@@ -34,12 +34,12 @@ main {
 .css-typing p {
   border-right: .15em solid white;
   font-family: 'Anonymous Pro', monospace;  
-  font-size: 20px;
+  font-size: 18px;
   white-space: nowrap;
   overflow: hidden;
 }
 .css-typing p:nth-child(2) {
-  width: 17.5em;
+  width: 14.5em;
   -webkit-animation: type 2s steps(40, end);
   animation: type 2s steps(40, end);
   -webkit-animation-fill-mode: forwards;
