@@ -59,7 +59,7 @@ main {
 }
 
 .css-typing p:nth-child(1) {
-  width: auto;
+  width: 15.5em;
   opacity: 0;
   margin-top: -2%;
   -webkit-animation: type3 2s steps(20, end), blink .5s step-end infinite alternate;
