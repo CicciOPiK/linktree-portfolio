@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 header {
   display: flex;
@@ -31,14 +32,14 @@ main {
 }
 
 .css-typing p {
-  border-right: .15em solid orange;
-  font-family: "Courier";
-  font-size: 14px;
+  border-right: .15em solid white;
+  font-family: 'Anonymous Pro', monospace;  
+  font-size: 20px;
   white-space: nowrap;
   overflow: hidden;
 }
 .css-typing p:nth-child(2) {
-  width: 7.3em;
+  width: 17.5em;
   -webkit-animation: type 2s steps(40, end);
   animation: type 2s steps(40, end);
   -webkit-animation-fill-mode: forwards;
@@ -46,7 +47,7 @@ main {
 }
 
 .css-typing p:nth-child(3) {
-  width: 19.5em;
+  width: 17.5em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -57,7 +58,7 @@ main {
 }
 
 .css-typing p:nth-child(1) {
-  width: 17em;
+  width: 17.5em;
   opacity: 0;
   -webkit-animation: type3 2s steps(20, end), blink .5s step-end infinite alternate;
   animation: type3 2s steps(20, end), blink .5s step-end infinite alternate;
