@@ -510,6 +510,7 @@ h1 {
 .hamburger {
   width: 25px;
   height: 3px;
+    -webkit-text-stroke: 0.2px black;
   background: white;
   display: block;
   position: absolute;
